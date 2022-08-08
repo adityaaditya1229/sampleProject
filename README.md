@@ -1,2 +1,0 @@
-# sampleProject
-testing new repository
